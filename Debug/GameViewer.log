@@ -1,0 +1,8 @@
+﻿  Game.cpp
+  GameModel.cpp
+f:\mobileapps\xmobilapp1\gameviewer\gamemodel.cpp(109): warning C4018: '>=': signed/unsigned mismatch
+  GameViewer.cpp
+  main.cpp
+  WebDataReader.cpp
+  Generating Code...
+  GameViewer.vcxproj -> F:\MobileApps\XMobilApp1\GameViewer\Debug\GameViewer.lib

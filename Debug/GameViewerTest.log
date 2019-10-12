@@ -1,0 +1,154 @@
+﻿  test.cpp
+F:\MobileApps\XMobilApp1\GameViewer\GameModel.cpp(114,18): warning C4018: '>=': signed/unsigned mismatch
+F:\MobileApps\XMobilApp1\GameViewerTest\test.cpp(59,12): warning C4101: 'res': unreferenced local variable
+  GameViewerTest.vcxproj -> F:\MobileApps\XMobilApp1\GameViewer\Debug\GameViewerTest.exe
+F:\Qt\5.12.2\msvc2017\include\QtCore\qglobal.h(591): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qglobal.h(591): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qglobal.h(591): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qglobal.h(591): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qsysinfo.h(226): warning C26812: The enum type 'QSysInfo::MacVersion' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(110): warning C26812: The enum type 'Qt::KeyboardModifier' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(167): warning C26812: The enum type 'Qt::MouseButton' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(175): warning C26812: The enum type 'Qt::Orientation' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(231): warning C26812: The enum type 'Qt::AlignmentFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(315): warning C26812: The enum type 'Qt::WindowType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(326): warning C26812: The enum type 'Qt::WindowState' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(346): warning C26812: The enum type 'Qt::ScreenOrientation' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(565): warning C26812: The enum type 'Qt::ImageConversionFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1223): warning C26812: The enum type 'Qt::DockWidgetArea' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1241): warning C26812: The enum type 'Qt::ToolBarArea' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1300): warning C26812: The enum type 'Qt::Edge' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1403): warning C26812: The enum type 'Qt::InputMethodQuery' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1438): warning C26812: The enum type 'Qt::InputMethodHint' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1489): warning C26812: The enum type 'Qt::DropAction' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1544): warning C26812: The enum type 'Qt::ItemFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1559): warning C26812: The enum type 'Qt::MatchFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1584): warning C26812: The enum type 'Qt::TextInteractionFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1636): warning C26812: The enum type 'Qt::TouchPointState' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1668): warning C26812: The enum type 'Qt::GestureFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1723): warning C26812: The enum type 'Qt::MouseEventFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1732): warning C26812: The enum type 'Qt::ScrollBarPolicy' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1733): warning C26812: The enum type 'Qt::FocusPolicy' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1734): warning C26812: The enum type 'Qt::ContextMenuPolicy' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1735): warning C26812: The enum type 'Qt::ArrowType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1736): warning C26812: The enum type 'Qt::ToolButtonStyle' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1737): warning C26812: The enum type 'Qt::PenStyle' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1738): warning C26812: The enum type 'Qt::PenCapStyle' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1739): warning C26812: The enum type 'Qt::PenJoinStyle' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1740): warning C26812: The enum type 'Qt::BrushStyle' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1741): warning C26812: The enum type 'Qt::FillRule' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1742): warning C26812: The enum type 'Qt::MaskMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1743): warning C26812: The enum type 'Qt::BGMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1744): warning C26812: The enum type 'Qt::ClipOperation' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1745): warning C26812: The enum type 'Qt::SizeMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1746): warning C26812: The enum type 'Qt::Axis' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1747): warning C26812: The enum type 'Qt::Corner' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1749): warning C26812: The enum type 'Qt::LayoutDirection' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1750): warning C26812: The enum type 'Qt::SizeHint' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1754): warning C26812: The enum type 'Qt::TextFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1762): warning C26812: The enum type 'Qt::TextFormat' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1763): warning C26812: The enum type 'Qt::TextElideMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1764): warning C26812: The enum type 'Qt::DateFormat' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1765): warning C26812: The enum type 'Qt::TimeSpec' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1766): warning C26812: The enum type 'Qt::DayOfWeek' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1767): warning C26812: The enum type 'Qt::CursorShape' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1768): warning C26812: The enum type 'Qt::GlobalColor' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1769): warning C26812: The enum type 'Qt::AspectRatioMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1770): warning C26812: The enum type 'Qt::TransformationMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1772): warning C26812: The enum type 'Qt::Key' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1773): warning C26812: The enum type 'Qt::ShortcutContext' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1776): warning C26812: The enum type 'Qt::ItemSelectionMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1777): warning C26812: The enum type 'Qt::ItemSelectionOperation' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1779): warning C26812: The enum type 'Qt::CheckState' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1780): warning C26812: The enum type 'Qt::ItemDataRole' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1781): warning C26812: The enum type 'Qt::SortOrder' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1782): warning C26812: The enum type 'Qt::CaseSensitivity' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1788): warning C26812: The enum type 'Qt::WindowModality' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1789): warning C26812: The enum type 'Qt::WidgetAttribute' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1790): warning C26812: The enum type 'Qt::ApplicationAttribute' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1793): warning C26812: The enum type 'Qt::FocusReason' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1797): warning C26812: The enum type 'Qt::EnterKeyType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1802): warning C26812: The enum type 'Qt::ConnectionType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1803): warning C26812: The enum type 'Qt::ApplicationState' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1805): warning C26812: The enum type 'Qt::GestureState' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1806): warning C26812: The enum type 'Qt::GestureType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1807): warning C26812: The enum type 'Qt::NativeGestureType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1809): warning C26812: The enum type 'Qt::CursorMoveStyle' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1810): warning C26812: The enum type 'Qt::TimerType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1811): warning C26812: The enum type 'Qt::ScrollPhase' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1812): warning C26812: The enum type 'Qt::MouseEventSource' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1814): warning C26812: The enum type 'Qt::ChecksumType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qnamespace.h(1815): warning C26812: The enum type 'Qt::TabFocusBehavior' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qarraydata.h(126): warning C26812: The enum type 'QArrayData::AllocationOption' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qchar.h(87): warning C26812: The enum type 'QChar::SpecialCharacter' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qchar.h(414): warning C26812: The enum type 'QChar::Category' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qchar.h(415): warning C26812: The enum type 'QChar::Direction' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qchar.h(416): warning C26812: The enum type 'QChar::JoiningType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qchar.h(423): warning C26812: The enum type 'QChar::Joining' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qchar.h(437): warning C26812: The enum type 'QChar::Decomposition' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qchar.h(445): warning C26812: The enum type 'QChar::Script' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qchar.h(447): warning C26812: The enum type 'QChar::UnicodeVersion' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qbytearray.h(473): warning C26812: The enum type 'QByteArray::Base64Option' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qstring.h(1420): warning C26812: The enum type 'QString::SectionFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qcolor.h(86): warning C26812: The enum type 'QColor::Spec' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qpixelformat.h(98): warning C26812: The enum type 'QPixelFormat::Field' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qpixelformat.h(178): warning C26812: The enum type 'QPixelFormat::ColorModel' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qpixelformat.h(209): warning C26812: The enum type 'QPixelFormat::AlphaUsage' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qpixelformat.h(210): warning C26812: The enum type 'QPixelFormat::AlphaPosition' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qpixelformat.h(211): warning C26812: The enum type 'QPixelFormat::AlphaPremultiplied' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qpixelformat.h(212): warning C26812: The enum type 'QPixelFormat::TypeInterpretation' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qpixelformat.h(213): warning C26812: The enum type 'QPixelFormat::ByteOrder' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qpixelformat.h(215): warning C26812: The enum type 'QPixelFormat::YUVLayout' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qmetatype.h(713): warning C26812: The enum type 'QMetaType::ExtensionFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qmetatype.h(765): warning C26812: The enum type 'QMetaType::TypeFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qiodevice.h(185): warning C26812: The enum type 'QIODevice::OpenModeFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qdatastream.h(215): warning C26812: The enum type 'QDataStream::Status' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qdatastream.h(335): warning C26812: The enum type 'QDataStream::ByteOrder' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qmatrix.h(60): warning C26495: Variable 'QMatrix::_dy' is uninitialized. Always initialize a member variable (type.6).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qmatrix.h(70): warning C26495: Variable 'QMatrix::_dy' is uninitialized. Always initialize a member variable (type.6).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qtransform.h(209): warning C26812: The enum type 'QTransform::TransformationType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qimage.h(139): warning C26812: The enum type 'QImage::Format' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Scratch\vcpkg\installed\x86-windows\include\json\value.h(576): warning C26812: The enum type 'Json::CommentPlacement' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Scratch\vcpkg\installed\x86-windows\include\json\value.h(605): warning C26812: The enum type 'Json::ValueType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\MobileApps\XMobilApp1\GameViewer\Game.h(62): warning C26495: Variable 'GameEvent_t::seriesNumber' is uninitialized. Always initialize a member variable (type.6).
+F:\MobileApps\XMobilApp1\GameViewer\Game.h(41): warning C26495: Variable 'Team_t::id' is uninitialized. Always initialize a member variable (type.6).
+F:\MobileApps\XMobilApp1\GameViewer\Game.h(26): warning C26495: Variable 'LeagueRecord_t::losses' is uninitialized. Always initialize a member variable (type.6).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qmap.h(96): warning C26812: The enum type 'QMapNodeBase::Color' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qabstractitemmodel.h(258): warning C26812: The enum type 'QAbstractItemModel::LayoutChangeHint' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(74): warning C26812: The enum type 'QOpenGLTexture::Target' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(89): warning C26812: The enum type 'QOpenGLTexture::BindingTarget' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(95): warning C26812: The enum type 'QOpenGLTexture::MipMapGeneration' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(101): warning C26812: The enum type 'QOpenGLTexture::TextureUnitReset' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(259): warning C26812: The enum type 'QOpenGLTexture::TextureFormat' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(294): warning C26812: The enum type 'QOpenGLTexture::CubeMapFace' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(317): warning C26812: The enum type 'QOpenGLTexture::PixelFormat' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(347): warning C26812: The enum type 'QOpenGLTexture::PixelType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(355): warning C26812: The enum type 'QOpenGLTexture::SwizzleComponent' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(365): warning C26812: The enum type 'QOpenGLTexture::SwizzleValue' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(373): warning C26812: The enum type 'QOpenGLTexture::WrapMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(380): warning C26812: The enum type 'QOpenGLTexture::CoordinateDirection' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(405): warning C26812: The enum type 'QOpenGLTexture::Feature' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(545): warning C26812: The enum type 'QOpenGLTexture::DepthStencilMode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(560): warning C26812: The enum type 'QOpenGLTexture::ComparisonFunction' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtGui\qopengltexture.h(582): warning C26812: The enum type 'QOpenGLTexture::Filter' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qsharedpointer_impl.h(154): warning C26495: Variable 'QtSharedPointer::ExternalRefCountData::weakref' is uninitialized. Always initialize a member variable (type.6).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qlocale.h(885): warning C26812: The enum type 'QLocale::Language' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qlocale.h(886): warning C26812: The enum type 'QLocale::Country' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qlocale.h(887): warning C26812: The enum type 'QLocale::Script' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qlocale.h(895): warning C26812: The enum type 'QLocale::MeasurementSystem' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qlocale.h(1099): warning C26812: The enum type 'QLocale::NumberOption' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qtextstream.h(202): warning C26812: The enum type 'QTextStream::NumberFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qdebug.h(72): warning C26812: The enum type 'QtMsgType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qdebug.h(91): warning C26812: The enum type 'QDebug::Stream::FormatFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\MobileApps\XMobilApp1\GameViewer\WebDataReader.cpp(59): warning C6308: 'realloc' might return null pointer: assigning null pointer to 'mem->memory', which is passed as an argument to 'realloc', will cause the original memory block to be leaked.
+F:\MobileApps\XMobilApp1\GameViewer\WebDataReader.cpp(129): warning C6001: Using uninitialized memory 'res'.
+F:\MobileApps\XMobilApp1\GameViewer\WebDataReader.cpp(108): warning C26812: The enum type 'CURLcode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\MobileApps\XMobilApp1\GameViewer\WebDataReader.cpp(185): warning C6001: Using uninitialized memory 'res'.
+F:\Qt\5.12.2\msvc2017\include\QtCore\qvariant.h(721): warning C26498: The function 'qMetaTypeId<QPair<QVariant,QVariant> >' is constexpr, mark variable 'vid' constexpr if compile-time evaluation is desired (con.5).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qmetatype.h(1765): warning C26812: The enum type 'QtPrivate::MetaTypeDefinedHelper<QtMetaTypePrivate::QSequentialIterableImpl,1>::DefinedType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qmetatype.h(1728): warning C26812: The enum type 'QtPrivate::MetaTypeDefinedHelper<QPair<QVariant,QVariant>,1>::DefinedType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qmetatype.h(2287): warning C26498: The function 'qMetaTypeId<QtMetaTypePrivate::QPairVariantInterfaceImpl>' is constexpr, mark variable 'toId' constexpr if compile-time evaluation is desired (con.5).
+F:\Qt\5.12.2\msvc2017\include\QtCore\qmetatype.h(2304): warning C26498: The function 'qMetaTypeId<QtMetaTypePrivate::QSequentialIterableImpl>' is constexpr, mark variable 'toId' constexpr if compile-time evaluation is desired (con.5).
+F:\MobileApps\XMobilApp1\GameViewer\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1\build\native\include\gtest\internal\gtest-port.h(1804): warning C26812: The enum type 'testing::internal::Mutex::StaticConstructorSelector' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+F:\MobileApps\XMobilApp1\GameViewer\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1\build\native\include\gtest\internal\gtest-port.h(1804): warning C26495: Variable 'testing::internal::Mutex::critical_section_init_phase_' is uninitialized. Always initialize a member variable (type.6).
+F:\MobileApps\XMobilApp1\GameViewer\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1\build\native\include\gtest\gtest-test-part.h(62): warning C26812: The enum type 'testing::TestPartResult::Type' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
